@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","20407","Validate Products page","chromium","2026-07-04","passed","2026-07-04","","Products.spec.js","",""
+"","16833","Validate Products page","webkit","2026-07-04","passed","2026-07-04","","Products.spec.js","",""
+"","24510","Validate Products page","firefox","2026-07-04","passed","2026-07-04","","Products.spec.js","",""
+"","12648","Validate login page","webkit","2026-07-04","passed","2026-07-04","","Login.spec.js","",""
+"","17277","Validate login page","firefox","2026-07-04","passed","2026-07-04","","Login.spec.js","",""
+"","13860","Validate login page","chromium","2026-07-04","passed","2026-07-04","","Login.spec.js","",""
